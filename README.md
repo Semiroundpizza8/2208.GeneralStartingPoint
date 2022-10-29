@@ -5,7 +5,7 @@
     - /genres - List of all genres in our DB
 - [ ] BACK-END
     - Movies
-        - Name
-        - Run-time
+        - Name: STRING
+        - Run-time: MS
     - Genres
         - Name
