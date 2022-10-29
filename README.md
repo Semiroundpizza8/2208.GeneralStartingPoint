@@ -1,0 +1,11 @@
+- [ ] FRONT-END
+    - / - home
+    - /movies - List of all movies in our DB 
+    - /movies/:id - Link to a single movie in our DB
+    - /genres - List of all genres in our DB
+- [ ] BACK-END
+    - Movies
+        - Name
+        - Run-time
+    - Genres
+        - Name
